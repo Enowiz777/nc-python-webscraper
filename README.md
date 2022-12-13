@@ -13,3 +13,14 @@
 *How do you install beautiful soup?*
 - https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup
 
+## 3. Initial request
+
+## 4. Beatiful Soup
+
+- In order to navigate a long string, we are going to use the beautiful soup to filter some data. 
+- Search for HTML tags.
+Steps:
+(Check the doc)
+1. Import beautifulsoup
+2. Get section with class called jobs
+
