@@ -24,3 +24,7 @@ Steps:
 1. Import beautifulsoup
 2. Get section with class called jobs
 
+## 5. Job Posts
+- There are <section class="jobs">
+- What do we use when we like to see the code inside the section. 
+- 
