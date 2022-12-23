@@ -122,3 +122,10 @@ def extract_jobs(keywords):
     파이어폭스 : https://github.com/mozilla/geckodriver/releases
     사파리 : https://webkit.org/blog/6900/webdriver-support-in-safari-10/
     (mac은 brew가 편해요 brew install chromedriver)
+
+(I am skipping the Selenium utilization)
+
+# 5.13 None
+
+- None is a data type that we use when something isn't there 
+- 
